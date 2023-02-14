@@ -1,3 +1,3 @@
-# hello-world
+# Hello world
 
-Starting on the web
+Starting in the world of web development
